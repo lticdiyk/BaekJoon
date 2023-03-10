@@ -19,6 +19,7 @@ public class Main {
             }
         }
         System.out.println(arr[num] +"\n"+(num+1));
-        System.out.println("hello01"));
+        System.out.println("hello01");
+        System.out.println("hello02");
     }
 }
